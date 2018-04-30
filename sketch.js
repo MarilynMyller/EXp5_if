@@ -6,6 +6,7 @@ let velocityX = 10;
 let velocityY = 10; 
 let string="text"; 
 let boolean = false; 
+let something
 
 function setup() {
   // put setup code here
